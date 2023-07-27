@@ -25,8 +25,5 @@ PostConnect is powered by Angular and Angular Material, with a dash of magic fro
 ## Backend Repository
 
 [Backend Repository URL](https://github.com/mattseidel/post-connect-backend)
-## Let's Connect!
-
-Join the chaos and connect with us on social media. Follow us on Twitter 🐦 and like us on Facebook 👍 for updates and more fun! 🎉
 
 **Happy Connecting!**  😃🎉🌟
